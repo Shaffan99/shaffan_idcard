@@ -14,7 +14,6 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
 class MyHomePage extends StatelessWidget
 {
   @override
@@ -50,9 +49,6 @@ class MyHomePage extends StatelessWidget
                     height: 120,width: 125,color: Colors.red[900],
                     child: Image.asset('assets/suffa_logo.png',height: 120),
                   ),
-                  /*Image.asset('assets/DHA.png',height: 120),
-                  Center(child: Text('DHA \n SUFFA \n UNIVERSITY',style: TextStyle(fontSize: 30.0, color: Colors.white), textAlign: TextAlign.center),),
-                  Image.asset("assets/suffa_logo.png",height:120),*/
                 ],
               ),
 
